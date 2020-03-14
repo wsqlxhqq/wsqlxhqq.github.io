@@ -4,11 +4,11 @@ title: Links
   <div class="container">
 
     <div id="article">
-      <h1>Links</h1>
-      <p>I find a wide variety of things interesting and/or useful on the web. These are just some of them.</p>
+      <h1>问题</h1>
+      <p>在搭建环境中一些奇葩问题！！！</p>
       <br>
       <center>
-      <a href="#fashion"><span class="label label-danger fashion-button">Fashion</span></a>
+      <a href="#fashion"><span class="label label-danger fashion-button">gem+jekyll安装</span></a>
       <a href="#programming"><span class="label label-danger programming-button">Programming</span></a>
       <a href="#tech"><span class="label label-danger tech-button">Tech & Gadgets</span></a>
       <a href="#misc"><span class="label label-danger misc-button">Misc</span></a>
@@ -19,39 +19,122 @@ title: Links
 
     <div id="article" class="fashion">
       <a name="fashion">
-      <h2>Fashion</h2>
+      <h2>window环境jekyll安装</h2>
       <table class="table table-hover ">
         <tbody>
           <tr>
             <td valign="top" class="td1">
-              <p class="p2"><span class="s1"><b>site</b></span></p>
+              <p class="p2"><span class="s1"><b>报错1</b></span></p>
             </td>
-            <td valign="top" class="td1">
-              <p class="p2"><span class="s1"><b>what is it</b></span></p>
+            <td valign="top" class="td3">
+              <p class="p2"><span class="s1">ERROR: While executing gem ... (Gem::CommandLineError)<span class="Apple-converted-space"> </span></span></p>
+            </td>
+            <td valign="top" class="td3">
+              <p class="p2"><span class="s1">解决：网上搜寻说是https的问题 ，将镜像https改成http://rubygems.org/
+但是没用 又开始报错：Could not find a valid gem 'jkeyll' (>= 0)
+最后换成中国镜像：gem sources -a http://gems.ruby-china.com/<span class="Apple-converted-space"> </span></span></p>
             </td>
           </tr>
           <tr>
             <td valign="top" class="td2">
-              <p class="p2"><span class="s2"><a href="http://reddit.com/r/malefashionadvice"><b>r/malefashionadvice</b></a></span></p>
+              <p class="p2"><span class="s2"><b>报错2</b></span></p>
             </td>
             <td valign="top" class="td3">
-              <p class="p2"><span class="s1">This is the go-to community for beginners in male fashion. Their FAQ guides are extremely helpful. The fashion here tends to be more of the casual-professional side, with a healthy dose of urban fashionwear.<span class="Apple-converted-space"> </span></span></p>
+              <p class="p2"><span class="s1">Markdown processor: "redcarpet" is not a valid Markdown processor.
+                    Available processors are: kramdown<span class="Apple-converted-space"> </span></span></p>
+            </td>
+            <td valign="top" class="td3">
+              <p class="p2">
+                <span class="s1">查了半天，各种中文网都找不到最后在一个https://github.com/jekyll/jekyll/issues/7838有人提问上看到一个人说：Redcarpet support has been dropped in Jekyll 4.0. See #6987
+Documentation needs to be updated, you can still use redcarpet with Jekyll 3.x though.大概意思就是说这个东西在jekll4.0以上已经被废弃，只有在4以下才能被使用，找了大半天我去！！！
+                  <span class="Apple-converted-space">
+                     </span>
+                </span>
+                解决办法：降版本（找到一个）：bundle exec gem install jekyll -v 3.4.3
+              </p>
             </td>
           </tr>
+
           <tr>
             <td valign="top" class="td4">
-              <p class="p2"><span class="s1"><a href="http://4chan.org/fa/"><b>/fa/</b></a></span></p>
+              <p class="p2">
+                <span class="s1">
+                  <b>报错3：</b>
+                </span>
+              </p>
             </td>
             <td valign="top" class="td5">
-              <p class="p2"><span class="s1">Not mentioning whatever stigmas 4chan has, I’ve found the /fa/ community to be a great resource for anyone interested in more urban fashion. High end designers are greatly favored here (such as Rick Owens). Their FAQ is straightforward.<span class="Apple-converted-space"> </span></span></p>
+              <p class="p2">
+                <span class="s1">
+             ERROR: YOUR SITE COULD NOT BE BUILT:
+                    ------------------------------------
+                    pygments
+              <span class="Apple-converted-space"> 
+              </span>
+              </span></p>
+            </td>
+            <td valign="top" class="td5">
+              <p class="p2">
+                <span class="s1">
+                  pygments会报错
+
+                  ##highlighter: pygments
+                  改成
+                  highlighter: rouge
+              <span class="Apple-converted-space"> 
+              </span>
+              </span></p>
+            </td>
+
+          </tr>
+
+          <tr>
+            <td valign="top" class="td6">
+              <p class="p2"><span class="s1"><a href="http://dappered.com"><b>报错4</b></a></span></p>
+            </td>
+            <td valign="top" class="td7">
+              <p class="p2">
+                <span class="s1">
+                   redcarpet
+             ERROR: YOUR SITE COULD NOT BE BUILT:
+                    ------------------------------------
+                    redcarpet
+                </span>
+              </p>
+            </td>
+            <td valign="top" class="td7">
+              <p class="p2">
+                <span class="s1">
+                   最开始以为是.config.yml语法问题后来发现不是  网上说需要把_config.yml中的markdown改为kramdown，最后发现不是：
+                   最后看错误信息 Yikes! It looks like you don't have redcarpet or one of its dependencies installed. In order to use Jekyll as currently configured, you'll need to install this gem. The full error message from Ruby is: 'cannot load such file -- redcarpet' If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/!
+  Conversion error: Jekyll::Converters::Markdown encountered an error while converting '_posts/2013-12-04-welcome-to-jekyll.markdown':
+                    redcarpet
+             ERROR: YOUR SITE COULD NOT BE BUILT:
+                    ------------------------------------
+                    redcarpet
+                原来是这个没装ou'll need to install this gem.
+                  安装命令：gem install redcarpet
+                </span>
+              </p>
             </td>
           </tr>
           <tr>
             <td valign="top" class="td6">
-              <p class="p2"><span class="s1"><a href="http://dappered.com"><b>dappered</b></a></span></p>
+              <p class="p2"><span class="s1"><a href="http://dappered.com"><b>报错5</b></a></span></p>
             </td>
             <td valign="top" class="td7">
-              <p class="p2"><span class="s1">Joe does an amazing job with Dappered. With daily posts ranging from style advice to killer deals, this is a must add for your bookmarks. I find this perfect for those looking to dress business-casual.</span></p>
+              <p class="p2">
+                <span class="s1">
+                   静态css文件获取不了再本地报404
+                </span>
+              </p>
+            </td>
+            <td valign="top" class="td7">
+              <p class="p2">
+                <span class="s1">
+                   网上找了半天   一直运行jekyll serve 最后莫名好了   觉得奇怪
+                </span>
+              </p>
             </td>
           </tr>
         </tbody>

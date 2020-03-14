@@ -1,19 +1,20 @@
-name: Herring Cove
-author: Herring Cove
+name: WSQ
+author: WSQ
 baseurl: ''
 description: theme for jekyll
 github: http://www.github.com/arnp
 twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
+facebook: https://github.com/wsqlxhqq
 linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
+email: 631844347@qq.com
 location: 42°2'16"N   70°12'47"W
 disqus: diqus-username
 
 ##Make sure to edit the above fields, especially for disqus.
 
 
-highlighter: pygments
+##highlighter: pygments
+highlighter: rouge
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
