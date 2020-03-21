@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d2017de-f529-4208-b3d5-fefbc4d60922" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-12-04-Samples.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-12-04-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-12-08-What-is-this-anyway.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-14-Empty-and-confused.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-14-Resume.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-14-Resume.markdown" afterDir="false" />
-    </list>
+    <list default="true" id="0d2017de-f529-4208-b3d5-fefbc4d60922" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-14-Resume.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="72">
-                <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <first_editor relative-caret-position="18">
+                <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -72,9 +65,19 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-16-question.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
+              <first_editor relative-caret-position="-288">
                 <caret line="5" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="5" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-03-21-Calculationquestion.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-756" />
               <second_editor />
             </state>
           </provider>
@@ -193,12 +196,12 @@
       <workItem from="1584184461381" duration="4358000" />
       <workItem from="1584242808486" duration="6908000" />
       <workItem from="1584352339218" duration="2006000" />
-      <workItem from="1584777824119" duration="593000" />
+      <workItem from="1584777824119" duration="1131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25409000" />
+    <option name="totallyTimeSpent" value="25947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,9 +388,17 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-16-question.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
+          <first_editor relative-caret-position="-288">
             <caret line="5" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="5" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-21-Calculationquestion.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-756" />
           <second_editor />
         </state>
       </provider>
@@ -395,8 +406,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-14-Resume.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <first_editor relative-caret-position="18">
+            <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
