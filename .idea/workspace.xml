@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d2017de-f529-4208-b3d5-fefbc4d60922" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-26-claim.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-26-claim.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-claim.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="4" />
+              <first_editor relative-caret-position="540">
+                <caret line="30" column="99" selection-start-line="30" selection-start-column="99" selection-end-line="30" selection-end-column="99" />
               </first_editor>
               <second_editor />
             </state>
@@ -68,8 +66,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="416">
-                <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <first_editor relative-caret-position="164">
+                <caret line="23" selection-start-line="23" selection-end-line="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -257,12 +255,12 @@
       <workItem from="1584854794191" duration="1509000" />
       <workItem from="1585018077217" duration="1092000" />
       <workItem from="1585145697569" duration="606000" />
-      <workItem from="1585211735008" duration="3724000" />
+      <workItem from="1585211735008" duration="4057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33576000" />
+    <option name="totallyTimeSpent" value="33909000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,8 +510,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-claim.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="4" />
+          <first_editor relative-caret-position="540">
+            <caret line="30" column="99" selection-start-line="30" selection-start-column="99" selection-end-line="30" selection-end-column="99" />
           </first_editor>
           <second_editor />
         </state>
@@ -522,8 +520,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="416">
-            <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <first_editor relative-caret-position="164">
+            <caret line="23" selection-start-line="23" selection-end-line="23" />
           </first_editor>
           <second_editor />
         </state>
