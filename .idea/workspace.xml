@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d2017de-f529-4208-b3d5-fefbc4d60922" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-24-set-Photo.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-26-claim.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-26-claim.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,24 +52,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-claim.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="378">
-                <caret line="21" column="95" selection-start-line="21" selection-start-column="95" selection-end-line="21" selection-end-column="95" />
+              <first_editor relative-caret-position="36">
+                <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="102" />
+              <first_editor relative-caret-position="416">
+                <caret line="24" selection-start-line="24" selection-end-line="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -92,6 +94,18 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="198">
                 <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-03-24-Compare.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="252">
+                <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -153,13 +167,15 @@
         <option value="$PROJECT_DIR$/_posts/2020-03-21-Calculationquestion.markdown" />
         <option value="$PROJECT_DIR$/_posts/2020-03-22-Data-analysis.markdown" />
         <option value="$PROJECT_DIR$/_posts/2020-03-24-set-Photo.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2020-03-24-Compare.markdown" />
         <option value="$PROJECT_DIR$/_posts/2020-03-26-claim.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
-    <option name="y" value="414" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-71" />
+    <option name="y" value="187" />
     <option name="width" value="1868" />
     <option name="height" value="1100" />
   </component>
@@ -241,12 +257,12 @@
       <workItem from="1584854794191" duration="1509000" />
       <workItem from="1585018077217" duration="1092000" />
       <workItem from="1585145697569" duration="606000" />
-      <workItem from="1585211735008" duration="2731000" />
+      <workItem from="1585211735008" duration="3724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32583000" />
+    <option name="totallyTimeSpent" value="33576000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,10 +274,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="98" y="511" width="1868" height="1100" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22179204" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -274,7 +290,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26293996" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27548808" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -443,16 +459,6 @@
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-03-22-Data-analysis.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-24-set-Photo.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -483,11 +489,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-22-Data-analysis.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="102" />
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-24-Compare.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
@@ -496,8 +512,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-claim.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="21" column="95" selection-start-line="21" selection-start-column="95" selection-end-line="21" selection-end-column="95" />
+          <first_editor relative-caret-position="36">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-26-set-Photo.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="24" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor />
         </state>
