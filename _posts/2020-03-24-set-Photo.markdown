@@ -1,0 +1,27 @@
+# 整理一些直播图片
+##资料分析
+#####比重变化幅度
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/analysis/1.jpg)
+
+#####倍数关系比值
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/analysis/2.jpg)
+#####比较差距
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/analysis/3.jpg)
+#####隔年
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/analysis/4.jpg)
+#####混合问题
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/analysis/5.jpg)
+## 数量关系
+- 排列组合
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/Quantity/5.jpg)
+- 最值问题
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/Quantity/1.jpg)
+- 工程问题列式
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/Quantity/2.jpg)
+- 行程问题
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/Quantity/3.jpg)
+- 一个有意思的题目
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/Quantity/4.jpg)
+- 混合问题
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/Quantity/7.jpg)
+- ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/Quantity/6.jpg)
