@@ -1,23 +1,23 @@
 # 整理一些直播图片
 
-##资料分析
+## 资料分析
 
-#####比重变化幅度
+#### 比重变化幅度
 
 - ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/images/analysis/1.png)
 
-######倍数关系比值
+#### 倍数关系比值
 
 - ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/images/analysis/2.png)
 
-######比较差距
+#### 比较差距
 
 - ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/images/analysis/3.png)
 
-######隔年
+#### 隔年
 - ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/images/analysis/4.png)
 
-######混合问题
+#### 混合问题
 - ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/images/analysis/5.png)
 
 ###数量关系
