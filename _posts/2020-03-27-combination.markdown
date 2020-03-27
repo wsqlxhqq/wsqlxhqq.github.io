@@ -1,7 +1,7 @@
 # 整理一些直播图片
 
 
-###排列组合
+### 排列组合
 
 #### 插空法
 - ![Aaron Swartz](https://raw.githubusercontent.com/wsqlxhqq/wsqlxhqq.github.io/master/images/Quantity/8.png)
